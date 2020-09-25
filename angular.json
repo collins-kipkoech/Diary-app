@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Diary-app"
+    }
+  },
+  "defaultProject": "Diary-app",
+  "cli": {
+    "analytics": "a7c9da8c-6acd-43d2-a6e7-daaad28842be"
+  }
 }
